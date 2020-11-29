@@ -1,0 +1,27 @@
+{
+  "name": "cra-template-soso",
+  "version": "0.0.1",
+  "private": false,
+  "author": "SoYoung210[ethdud1@gmail.com]",
+  "engines": {
+    "node": ">=12"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/SoYoung210/cra-template-soso"
+  },
+  "files": [
+    "template",
+    "template.json"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "cra",
+    "cra-template",
+    "swr",
+    "emotion"
+  ],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
